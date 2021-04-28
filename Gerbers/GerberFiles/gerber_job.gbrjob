@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-04-28T17:33:02Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.99,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "5v-3.3v Stepdown Breakout"
+        },
+        "Owner": "Joseph Chalker <joey12495@hotmail.com>",
+        "Size": {
+            "X": 26.45,
+            "Y": 27.3
+        }
+    }
+}
